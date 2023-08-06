@@ -1,0 +1,10 @@
+#container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.square {
+    border: 5px solid indianred;
+    padding: 1em;
+}
+
